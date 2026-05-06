@@ -3,7 +3,7 @@
 import pyperclip
 password={
     'snap':'abc@123',
-    'gmail':'likhi@123',
+    'gmail':'defg@123',
     'insta':'ghi@123',
     }
 account=input('enter the account name: ')
